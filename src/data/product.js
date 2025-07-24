@@ -14,9 +14,9 @@ import arte4 from '../assets/card-arte4.png';
 import arte5 from '../assets/card-arte5.png';
 import arte6 from '../assets/card-arte-pack.png';
 import honey from '../assets/card-honey.png';
-import Bars1 from '../assets/card-Bars1.png';
-import Bars2 from '../assets/card-Bars2.png';
-import Bars3 from '../assets/card-Bars3.png';
+import Bars1 from '../assets/card-bars1.png';
+import Bars2 from '../assets/card-bars2.png';
+import Bars3 from '../assets/card-bars3.png';
 import Bars4 from '../assets/card-bars-pack4.png';
 
 
