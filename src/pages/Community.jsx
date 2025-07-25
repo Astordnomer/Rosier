@@ -72,7 +72,7 @@ function Community() {
         </div>
       </div>
 
-      <h1 className='bg-black/90 text-white text-center text-8xl font-light p-10'>Rrcripes</h1>
+      <h1 className='bg-black/90 text-white text-center text-5xl mb:text-8xl font-light p-10'>Rrcripes</h1>
       <div className="grid bg-black/90 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-6">
         {RecipesData.map((item, idx) => (
           <div
